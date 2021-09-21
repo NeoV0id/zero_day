@@ -1,0 +1,1 @@
+This is a second README file, for the **second part** of the Git Project.
